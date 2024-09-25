@@ -39,7 +39,7 @@ The Car Sales Analysis dashboard provides a powerful tool for exploring sales da
 
 Ajinkya - Data Analyst Intern
 
-
+# output
 ![Screenshot 2024-09-21 123325](https://github.com/user-attachments/assets/b8345267-49b8-4ace-a47a-93d61f79e7f9)
 
 ![Screenshot 2024-09-25 101927](https://github.com/user-attachments/assets/1a8b2c17-1b21-4eea-b5de-a7c9e5300445)
